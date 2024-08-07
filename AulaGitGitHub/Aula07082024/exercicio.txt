@@ -1,0 +1,16 @@
+1°. Problema
+
+1. Crie um algoritmo para calcular a média
+de um aluno que estuda semestralmente e exiba
+o resultado.
+
+Resposta
+
+algoritmo CalculoMedia
+var = n1, n2 (real)
+
+inicio
+Ler n1, n2
+media = (n1 + n2) / 2
+Exiba (media)
+fim
